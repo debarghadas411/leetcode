@@ -22,7 +22,7 @@ class Solution:
                     return (max(pat1_left_max,pat2_left_max)+min(pat1_right_min,pat2_right_min))/2
                 else:
                     return min(pat1_right_min,pat2_right_min)
-            print(nums1[:pat1],nums1[pat1:],nums2[:pat2],nums2[pat2:],low,high,pat1,pat2)
+            # print(nums1[:pat1],nums1[pat1:],nums2[:pat2],nums2[pat2:],low,high,pat1,pat2)
             
                 
 
