@@ -1,6 +1,3 @@
 This file records the commit messages for this folder
-this is a test commit
-this is another test commit
-commit date: 11022025
-commit date: 11022025
+
 commit date: 11022025
